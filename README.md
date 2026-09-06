@@ -7,7 +7,7 @@ This portfolio will consist of steps I have taken to ensure that I can achieve m
 ## My Academic and Career Goal
 I hope to have completed my Bachelor degree in Data Science and have obtained my Masters in Law by 2032.
 ## Course Projects and Activities
-module-3/Module-3-POV-Statement-Activity.md
+
 ## Skills I Am Developing
 Data Analysis Skill, Time Management Skill, and Creative Thinking SKill
 ## Contact
